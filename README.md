@@ -1,6 +1,6 @@
 # NiceDuck机场官网地址
 
-最新地址：[niceduck.cc](https://haoya.fengchiyx.xyz/register?code=ewLAtHQK)
+最新地址：[niceduck.cc](https://dash.niceduck.io/register?code=ewLAtHQK)
 
 ## NiceDuck介绍
 
