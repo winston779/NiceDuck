@@ -12,13 +12,13 @@ Shadowsocks协议，支持Android/iOS/Mac/Windows/Linux/路由器平台。
 
 ## NiceDuck优惠码
 
-NiceDuck 2025劳动节优惠活动！
+NiceDuck 2025 双11优惠活动！
 
 全场8折，享受超值优惠：
 
 - 使用优惠码：duck-8
 
-- 有效期：2025年04月29日至2025年05月18日
+- 有效期：2025年11月07日至2025年11月23日
 
 ## NiceDuck价格
 
